@@ -70,7 +70,7 @@ class ViewController: UIViewController {
             return lowercaseName.substring(from: index)
         }
         
-        return ""
+        return lowercaseName
     }
 
 }
